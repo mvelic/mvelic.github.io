@@ -1,0 +1,14 @@
+# Site settings
+title: Matt Velic
+email: mattvelic@gmail.com
+description: "Testing jekyll because I want a static site naow!"
+baseurl: ""
+url: "http://mvelic.github.io"
+twitter_username: mvelic
+github_username:  mvelic
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: rouge
+encoding: utf-8
